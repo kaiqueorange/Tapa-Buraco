@@ -10,7 +10,7 @@ Aqui ficará todos os artefatos produzidos pela equipe ao longo do projeto.
 
 ### Gerência de Configuração
 
-* [Plano de Gerência de Configuração](./docs/gerencia de projeto/Plano_GCO_Tapa_Buraco.docx) **(PDF)**
+* [Plano de Gerência de Configuração](./docs/gerencia de projeto/Plano_GCO_Tapa_Buraco.pdf) **(PDF)**
 
 ### Engenharia de Requisitos
 
