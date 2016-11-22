@@ -1,1 +1,2 @@
-# Tapa-Buraco
+# Tapa-Buraco - Arquitetura
+  Documentação da arquitetura do sistema.
