@@ -1,4 +1,5 @@
 # Tapa-Buraco
+![Repositório do Tapa Buraco](./docs/documentos nao padronizados/LOGO-1.0-Tapa-Buraco.jpg)
 # Bem-vindo ao Tapa Buraco
 
 Aqui ficará todos os artefatos produzidos pela equipe ao longo do projeto.
