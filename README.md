@@ -6,7 +6,7 @@ Aqui ficará todos os artefatos produzidos pela equipe ao longo do projeto.
 
 ### Gerência de Projeto
 
-* [Plano do Projeto](./docs/gerencia de projetos/nome do arquivo) **(PDF)**
+* [Artefatos](./docs/gerencia de projeto/) **(folder)**
 
 ### Gerência de Configuração
 
